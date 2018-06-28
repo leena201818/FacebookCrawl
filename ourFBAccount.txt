@@ -1,0 +1,9 @@
+﻿# 第一行会被自动忽略,
+# 一定以utf-8格式保存
+# 当前爬虫所使用的fb账号
+#fbid 一定要有，判断是都登录成功的依据
+# nickName可有可无。
+user:88818@gmail.com
+pwd:8888
+fbid:xx
+nickName:xxxk

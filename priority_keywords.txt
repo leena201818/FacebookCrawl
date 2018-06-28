@@ -1,0 +1,16 @@
+﻿# The first line will be automatically ignored
+# The file is saved in utf-8 encoding format
+# Based on the highest priority of 100, the initial seed according to the actual situation assignment
+# Automatically calculate the highest priority of 100, if the manual queue, you need to immediately scheduling, you can specify the priority> 100
+# Format for keywords: score
+# Disable a keyword only need to add # in the first line (English)
+# Not case sensitive match
+govt.:10
+
+# Case-sensitive match, strict match, generally abbreviated =====================================
+
+MCTE:70
+
+# Stop words,remove these words first,case  =====================================
+General Motors
+General Trading

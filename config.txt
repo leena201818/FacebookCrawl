@@ -1,0 +1,1 @@
+{"dbIP": "192.168.8.222", "dbPort": "1433", "dbUser": "sa", "dbPwd": "1qaz@WSX3edc", "dbName":"FBDB_MAR","serverIP": "192.168.8.249", "serverPort": "8091"}
